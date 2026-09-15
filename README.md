@@ -121,7 +121,7 @@ Org-o_sofredor/
 
 ## 👨‍💻 Autor
 
-**Arzenha**
+**Ronald Brasil**
 
 ## 📝 Licença
 
